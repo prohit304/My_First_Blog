@@ -3,6 +3,7 @@ body{
     font-size: 13pt;
     background-color: #efefef;
     padding: 10px;
+    
 }
 h1{
     font-size: 15pt;
@@ -17,6 +18,11 @@ h1 span{
     padding: 10px;
 
 }
+hr{
+    border: block;
+    height: 1px;
+    background: #f36f48;
+}
 form{
     text-align: center;
     margin-top:0;
@@ -24,6 +30,17 @@ form{
 
 }
 table,th,td{
-    border:
+    border:2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
 
+
+}
+#contracts{
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-top: top;
 }

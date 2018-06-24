@@ -10,7 +10,6 @@ h1{
     text-align: center;
     padding:18px 0 18px 0;
     margin: 0 0 10px 0;
-    align-content: center;
 }
 h1 span{
     border: 4px dashed #20bcd5;
@@ -20,10 +19,5 @@ h1 span{
 form{
     text-align: center;
     margin-top:0;
-    align:center;
-
-}
-table,th,td{
-    border:
 
 }
