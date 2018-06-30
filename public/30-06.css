@@ -1,0 +1,23 @@
+body{
+    background-color: #efefef;
+    padding: 10px;
+
+}
+h1 span{
+    border: 4px dashed #10b4d1a8;
+   padding: 10px;
+}
+h1{
+    text-align: center;
+}
+.all{
+    background-color: #fff;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border:4px dashed red;
+}
+.author{
+    text-align: right;
+
+}
