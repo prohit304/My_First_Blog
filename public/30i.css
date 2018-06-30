@@ -1,0 +1,16 @@
+ol{
+    list-style-type: lower-roman;
+    color: olivedrab;
+}
+ul{
+    list-style-image: url(b.png);
+    color: rgb(216, 10, 106);
+    
+}
+.r{
+    list-style-type:lower-greek;
+    
+}
+dl{
+    color: blueviolet
+}
