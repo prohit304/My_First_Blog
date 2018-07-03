@@ -1,0 +1,17 @@
+ul{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    border: 4px dashed blueviolet ;
+    margin: 2px;
+    background: linear-gradient(#e66465, #9198e5);
+    color: black;
+    
+
+}
+span{
+    font-size: 2em;
+}
